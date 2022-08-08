@@ -269,3 +269,9 @@
 ||minecraft-wiki.com^
 ||minecraft-setup.net^
 ||planetminecraft.com^
+||minecraft-zlauncher.ru^
+||destix.ru^
+||minecraftmonitoring.com^
+||minecraft99.ru^
+||minecrafting.ru^
+||black-minecraft.com^
