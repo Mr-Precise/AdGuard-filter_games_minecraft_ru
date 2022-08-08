@@ -166,6 +166,7 @@
 ||10Minecraft.ru^
 ||minecrafts.ru^
 ||minezone.pro^
+||www.minezone.pro^
 ||minecraft-russian.ru^
 ||minecraftandroid.ru^
 ||minecraftnavideo.ru^
@@ -214,3 +215,18 @@
 ||ftb.fandom.com^
 ||mc-launcher.com^
 ||mods-mc.com^
+||multimc.org^
+||multimc.ru^
+||cubixworld.net^
+||mc-servera.net^
+||lemoncraft.ru^
+||minecraftservers.org^
+||redserver.su^
+||mc-monitoring.info^
+||mcstudio.su^
+||minehut.com^
+||minecraft-monitor.ru^
+||www.minecraft-moscow.com^
+||minepe.info^
+||mody4mine.ru^
+||monitoringminecraft.net^
