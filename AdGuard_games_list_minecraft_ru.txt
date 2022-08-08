@@ -233,7 +233,7 @@
 ||untrilcanda2761.wordpress.com^
 ||mod-mc.com^
 ||mine-mods-info.ru^
-||1майнкрафт.рф^
+||xn--1-8sba9afjjztt.xn--p1ai^
 ||minecraft.softonic.ru^
 ||mods-craft.ru^
 ||minegame.moy.su^
@@ -254,3 +254,18 @@
 ||minecraft-jobs.ru^
 ||minecrafttorrent.ru^
 ||1ru-minecraft.ru^
+||squareland.ru^
+||minecraft-go.ru^
+||mythicalworld.su^
+||letragon.ru^
+||pentacraft.ru^
+||grand-mine.net^
+||grandlegacy.ru^
+||simpleminecraft.ru^
+||gamepoint.su^
+||server-minecraft.ru^
+||minecraft-mods.pro^
+||esidentevilforever.ru^
+||minecraft-wiki.com^
+||minecraft-setup.net^
+||planetminecraft.com^
