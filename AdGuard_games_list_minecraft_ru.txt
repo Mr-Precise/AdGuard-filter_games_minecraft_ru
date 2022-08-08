@@ -305,3 +305,15 @@
 ||mcmir.ru^
 ||mclike.com^
 ||minez.ru^
+||gravitycraft.net^
+||simpleminecraft.net^
+||politmine.ru^
+||industrial-craft2.ru^
+||tlauncher-download.ru^
+||www.industrial-craft.net^
+||mod-buildcraft.com^
+||m2top.ru^
+||micdoodle8.com^
+||minecraftinfo.com^
+||www.minecraftinfo.com^
+||foxycraft.ru^
