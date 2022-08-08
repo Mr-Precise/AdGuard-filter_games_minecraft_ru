@@ -134,3 +134,7 @@
 ||addon-mcpe.com^
 ||pe-minecraft.net^
 ||pe-world.ru^
+||minecraftservera.com^
+||minecraft.diablo1.ru^
+||mcservers.ru^
+||mc-servers.ru^
