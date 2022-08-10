@@ -1,5 +1,6 @@
 ||monitoringminecraft.ru^
 ||tlauncher.org^
+||repo.tlauncher.org^
 ||minecraftonly.ru^
 ||ru-minecraft.ru^
 ||minecraftrating.ru^
@@ -81,6 +82,7 @@
 ||sessionserver.mojang.com^
 ||api.mojang.com^
 ||textures.minecraft.net^
+||api.minecraftservices.com^
 ||mojang.com^
 ||minecraft.ru^
 ||minecraft-list.ru^
@@ -389,3 +391,18 @@
 ||minecraftskin.ru^
 ||minecraft-pe.com^
 ||mcskinsearch.com^
+||spongeapi.com^
+||minecrafter1.xyz^
+||minecraftgamesplay.org^
+||minecraft-exe.net^
+||www.spigotmc.org^
+||raidark.ru^
+||spigotmc.ru^
+||pocket-edition.net^
+||optifine.net^
+||skachat-minecraft-pe.ru^
+||www.vivecraft.org^
+||minecraft-resourcepacks.com^
+||www.minecraftfanclub.net^
+||vanillatweaks.net^
+||download-mcpe.com^
