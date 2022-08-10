@@ -406,3 +406,10 @@
 ||www.minecraftfanclub.net^
 ||vanillatweaks.net^
 ||download-mcpe.com^
+||minecraftch.ru^
+||minecraftevi.com^
+||www.minecraftcrafting.info^
+||minecraftonline.com^
+||java-for-minecraft.com^
+||minecraft.ru.uptodown.com^
+||minecraft17.net^
