@@ -437,3 +437,10 @@
 ||minecraftium.ru^
 ||minecraft.tr.uptodown.com^
 ||minecraft-pe-apk.ru^
+||www.planet-mc.net^
+||scalacube.com^
+||www.minecraftindir.net^
+||mcpe-mods.com^
+||easy-minecraft.ru^
+||mcdownload.ru^
+||flareland.ru^
