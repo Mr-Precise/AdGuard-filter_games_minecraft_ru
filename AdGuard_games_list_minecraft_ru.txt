@@ -413,3 +413,7 @@
 ||java-for-minecraft.com^
 ||minecraft.ru.uptodown.com^
 ||minecraft17.net^
+||minecraftsketchbros.eu^
+||mcpedl.org^
+||fmcpe.com^
+||mcpe-planet.com^
